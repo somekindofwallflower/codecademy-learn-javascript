@@ -249,6 +249,85 @@ Learn how to use JavaScript — a powerful and flexible programming language for
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions">
         Functions
         </a>
+        <ul>
+             <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions">
+       Lesson - Functions
+        </a>
+        <ul>
+         <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/01-What-are-Functions">
+        What are Functions?
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/02-Function-Declaration">
+        Function Declarations
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/03-Calling-a-Function">
+        Calling a Function
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/04-Parameters-and-Arguments">
+        Parameters and Arguments
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/05-Defaul-Parameters">
+        Default Parameters
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/06-Return">
+        Return
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/07-Helper-Functions">
+        Helper Functions
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/08-Function-Expressions">
+        Function Expressions
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/09-Arrow-Functions">
+        Arrow Functions
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/10-Concise-Body-Arrow-Functions">
+        Concise Body Arrow Functions
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/1-Functions/11-Review-Functions">
+        Review Functions
+        </a>
+    </li>
+        </ul>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/2-Rock-Paper-or-Scissors">
+        Project - Rock, Paper, or Scissors
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/3-Sleep-Debt-Colculator">
+        Project - Sleep Debt Calculator
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/04-Functions/4-Functions">
+        Quiz - Funcions
+        </a>
+    </li>
+        </ul>
     </li>
      <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope">
