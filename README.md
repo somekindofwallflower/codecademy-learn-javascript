@@ -360,5 +360,3 @@ Learn how to use JavaScript — a powerful and flexible programming language for
         </a>
     </li>
 </ul>
-
-
