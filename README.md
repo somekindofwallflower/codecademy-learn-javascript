@@ -333,26 +333,406 @@ Learn how to use JavaScript — a powerful and flexible programming language for
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope">
         Scope
         </a>
+        <ul>
+            <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope">
+            Lesson - Scope
+            </a>
+            <ul>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/1-Scope">
+            Scope
+            </a></li>
+             <li> <a href=https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/2-Block-and-Scope">
+            Blocks and Scope
+            </a></li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/3-Global-Scope">
+            Global Scope
+            </a></li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/4-Block-Scope">
+            Block Scope
+            </a></li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/5-Scope-Pollution">
+            Scope Pollution
+            </a></li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/6-Practice-Good-Scoping">
+            Practice Good Scoping
+            </a></li>
+            <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/1-Scope/7-Review-Scope">
+            Review: Scope
+            </a></li>
+            </ul>
+            </li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/2-Training-Days">
+            Project - Training Days
+            </a></li>
+             <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/05-Scope/3-Scope-Quiz">
+        Quiz - Scope
+        </a></li>
+        </ul>
     </li>
      <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays">
         Arrays
         </a>
+        <ul>
+        <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays">
+        Lesson - Arrays
+        </a>
+        <ul>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/01-Arrays">
+            Arrays
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/02-Create-an-Array">
+            Create an array
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/03-Accessing-Elements">
+            Accessing Elements
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/04-Update-Elements">
+            Update Elements
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/05-Arrays-with-let-and-const">
+            Arrays with let and const
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/06-The-.length-property">
+            The .length proprety
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/07-The-.push-Method">
+            The .push() Method
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/08-The-.pop-Method">
+            The .pop() Method
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/09-More-Array-Methods">
+            More Array Methods
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/10-Arrays-and-Functions">
+            Arrays and functions
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/11-Nested-Arrays">
+            Nested Arrays
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/1-Arrays/12-Review-Arrays">
+            Review Arrays
+            </a>
+        </li>
+        </ul>
+        </li>
+        <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/2-Secret-Message">
+        Project - Secret Message
+        </a>
+        </li>
+        <li> <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/06-Arrays/3-Arrays-Quiz">
+        Quiz - Arrays
+        </a>
+        </li>
+        </ul>
     </li>
      <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops">
         Loops
         </a>
+        <ul>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops">
+        Lesson - Loops
+        </a>
+        <ul>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/01-Loops">
+        Loops
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/02-Repeating-Tasks-Manually">
+        Repeating Tasks Manually
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/03-The-For-Loop">
+        The For Loop
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/04-Looping-in-Reverse">
+        Looping in Reverse
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/05-Looping-through-Arrays">
+        Looping Through Arrays
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/06-Nested-Loops">
+        Nested Loops
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/07-The-While-Loop">
+        The While Loop
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/08-Do-While-Statements">
+        Do...While Staements
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/09-The-Break-Keyword">
+        the Break Keyword
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/1-Loops/10-Review">
+        Review
+        </a></li>
+        </ul>
+        </li>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/2-Whale-Talk">
+        Project - Whale Talk
+        </a></li>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/07-Loops/3-Loop-Quiz">
+        Quiz - Loops
+        </a></li>
+        </ul>
     </li>
      <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators">
         Iterators
         </a>
+        <ul>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/1-Higher-Order-Functions">
+        Lesson - Higher-Order Functions
+        </a>
+        <ul>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/1-Higher-Order-Functions/1-Introduction">
+        Introduction
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/1-Higher-Order-Functions/2-Functions-as-Data">
+        Functions as Data
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/1-Higher-Order-Functions/3-Functions-as-Parameters">
+        Function as Parameters
+        </a></li>
+          <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/1-Higher-Order-Functions/4-Review">
+        Review
+        </a></li>
+        </ul>
+        </li>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators">
+        Lesson - Iterators
+        </a>
+        <ul>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/1-Introduction-to-Iterators">
+        Introduction to Iterators
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/2-The-.forEach-Method">
+        The .forEach() Method
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/3-The-.map-Method">
+        The .map() Method
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/4-The-.filter-Method">
+        The .filter() Method
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/5-The-.findIndex-Method">
+        The .findIndex() Method
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/6-The-.reduce-Method">
+        The .reduce() Method
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/7-Iterator-Documentation">
+        Iterator Documentation
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/8-Choose-the-Right-Iterator">
+        Choose the rigth Iterator
+        </a></li>
+         <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/2-Iterators/9-Review">
+        Review
+        </a></li>
+        </ul>
+        </li>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/3-Higher-Order-Functions-and-Iterators">
+        Quiz - Higher Order Funcions and Iterators
+        </a></li>
+        <li>
+         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/08-Iterators/4-Grammar-Checker">
+        Project - Grammar Checker
+        </a></li>
+        </ul>
     </li>
      <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects">
         Objects
         </a>
+        <ul>
+           <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects">
+        Lesson - Objects
+        </a>
+        <ul>
+          <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/01-Introduction-to-Objects">
+        Introduction to Objects
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/02-Creating-Object-Literals">
+        Creating Object Literals
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/03-Accessing-Properties">
+        Accessing Properties
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/04-Bracket-Notation">
+        Bracket Notation
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/05-Propery-Assignment">
+        Property Assignment
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/06-Methods">
+        Methods
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/07-Nested-Objects">
+        Nested Objects
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/08-Pass-by-Reference">
+        Pass by Reference
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/09-Looping-Through-Objects">
+        Looping Through Objects
+        </a>
+    </li>
+      <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/1-Objects/10-Review">
+        Review
+        </a>
+    </li>
+        </ul>
+    </li>
+       <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects">
+        Lesson - Advanced Objects
+        </a>
+        <ul>
+         <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/01-Advanced-Objects-Introduction">
+        Advanced Objects Introduction
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/02-The-this-Keyword">
+        The this Keyword
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/03-Arrow-Functions-and-this">
+        Arrow Functions and this
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/04-Privacy">
+        Privacy
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/05-Getters">
+        Getters
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/06-Setters">
+        Setters
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/07-Factory-Functions">
+        Factory Functions
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/08-Property-Value-Shorthand">
+        Property Value Shorthand
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/09-Destructured-Assignment">
+        Destructured Assignment
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/10-Built-in-Object-Methods">
+        Buid-in Objects Methods
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/2-Advanced-Objects/11-Review">
+        Review
+        </a>
+    </li>
+        </ul>
+    </li>
+       <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/3-Meal-Maker">
+        Project - Meal Maker
+        </a>
+    </li>
+       <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/09-Objects/4-Team-Stats">
+        Project - Team Stats
+        </a>
+    </li>
+       <li>
+        <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/10-Next-Steps/5-Objects-Quiz">
+        Quiz - Objects
+        </a>
+    </li>
+        </ul>
     </li>
     <li>
         <a href="https://github.com/somekindofwallflower/codecademy-learn-javascript/tree/main/10-Next-Steps/1-Learn-JavaScript-Next-Steps">
